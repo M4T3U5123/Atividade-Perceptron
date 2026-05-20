@@ -15,7 +15,7 @@
 | Zezinho | 1 | 0 | 1 |
 | Luizinho | 1 | 1 | 1 |
 
-##  Ciclo (Época) 1
+##  Ciclo 1
 ###  Aluno: Joãozinho
 - **Entradas**: $x_1 = 0, x_2 = 0$ | **Alvo ($y$)**: 0
 - **Pesos atuais**: $w_1 = 0.00, w_2 = 0.00, b = 0.00$
@@ -55,7 +55,7 @@
 - ** Pesos Mantidos**: Não houve erro.
 
 
-##  Ciclo (Época) 2
+##  Ciclo 2
 ###  Aluno: Joãozinho
 - **Entradas**: $x_1 = 0, x_2 = 0$ | **Alvo ($y$)**: 0
 - **Pesos atuais**: $w_1 = 0.10, w_2 = 0.00, b = 0.00$
